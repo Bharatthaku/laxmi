@@ -716,15 +716,12 @@ section {
   transition: 0.3s;
   border-radius: 5px;
 }
-.services .service-box .icon {
-  font-size: 36px;
-  padding: 40px 20px;
+.services .service-box img {
   border-radius: 4px;
   position: relative;
   margin-bottom: 25px;
   display: inline-block;
-  line-height: 0;
-  transition: 0.3s;
+  width: 100%;
 }
 .services .service-box h3 {
   color: #444444;
