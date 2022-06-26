@@ -499,6 +499,16 @@ section {
   color: #4154f1;
   text-transform: uppercase;
 }
+
+.bs {
+  width: 296px;
+  display: flex;
+  flex-direction: column;
+}
+
+.bs img {
+  width: 100%;
+}
 .about h2 {
   font-size: 24px;
   font-weight: 700;
